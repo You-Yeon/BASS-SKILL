@@ -8,4 +8,4 @@ BASS_SKILL
 제가 좋아하는 악기인 베이스 기타의 스킬을 소개하는 사이트입니다. :guitar:
 
 ## intro page
-![bass_intro](./bass1.png)
+![bass1](./bass1.png)
