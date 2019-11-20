@@ -2,6 +2,11 @@ BASS_SKILL
 =============
 > 베이스 기타 스킬을 소개하는 웹사이트
 
+:computer: Developerment skill
+------------
+- 언어 : HTML
+- IDE : Atom
+
 📝 Introduction
 ------------
 
